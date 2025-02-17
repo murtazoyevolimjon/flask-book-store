@@ -2,7 +2,7 @@
 DB_HOST = 'localhost'
 DB_PORT = 3306
 DB_USER = 'root'
-DB_PASSWORD = 'Djcoder1120'
+DB_PASSWORD = '12345'
 DB_NAME = 'library'
 
 # SERVER config
